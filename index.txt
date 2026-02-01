@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Under Construction</title>
+  <style>
+    body {
+      margin: 0;
+      height: 100vh;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      background: #0f172a;
+      color: #ffffff;
+      font-family: Arial, sans-serif;
+      text-align: center;
+    }
+    .box {
+      max-width: 500px;
+      padding: 30px;
+      border-radius: 10px;
+      background: rgba(255,255,255,0.05);
+    }
+    h1 {
+      margin-bottom: 10px;
+      font-size: 36px;
+    }
+    p {
+      opacity: 0.85;
+      font-size: 16px;
+    }
+  </style>
+</head>
+<body>
+  <div class="box">
+    <h1>🚧 Under Construction</h1>
+    <p>Website ini sedang dibina.<br>
+    Sila datang semula tidak lama lagi.</p>
+  </div>
+</body>
+</html>
